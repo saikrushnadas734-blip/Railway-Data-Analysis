@@ -1,0 +1,11 @@
+Train_Name,Distance_km,Delay_min,Fuel_Consumption,Passengers
+Express A,500,20,200,800
+Express B,300,10,120,500
+Express C,700,45,300,1000
+Express D,450,15,180,650
+Express E,600,30,250,900
+Passenger A,200,5,80,300
+Passenger B,350,12,140,450
+Passenger C,150,3,60,200
+Superfast A,800,25,350,1200
+Superfast B,900,40,400,1500
